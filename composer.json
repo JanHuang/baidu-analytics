@@ -1,0 +1,13 @@
+{
+    "name": "janhuang/baidu-analytics",
+    "authors": [
+        {
+            "name": "JanHuang",
+            "email": "bboyjanhuang@gmail.com"
+        }
+    ],
+    "type": "pagekit-extension",
+    "version": "0.1.0",
+    "title": "Baidu Analytics",
+    "require": {}
+}
